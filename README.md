@@ -73,6 +73,7 @@ ai-ml-model-monitoring-dashboard/
 │
 ├── dashboard/
 │   └── ai_model_monitor.pbix
+│   └── ai_model_monitor_dashboard.pdf
 │
 ├── README.md
 ├── requirements.txt
